@@ -36,16 +36,17 @@ chmod +x check_name
 
 # Flyt scriptet til en katalog i din PATH
 sudo mv check_name /usr/local/bin/
+```
 
 ## Brug
 
 Når scriptet er flyttet til en katalog i din PATH, kan du køre det fra enhver terminal med følgende kommando:
-
 ```bash
 check_name
-
+```
 Hvis du ikke har flyttet scriptet, kan du køre det direkte fra projektmappen med:
+```bash
 ./check_name
-
-##Kontakt
+```
+## Kontakt
 For spørgsmål eller feedback, kontakt venligst natazjadahl@gmail.com
