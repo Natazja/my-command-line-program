@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+
+def main():
+    name = input("Enter your name: ")
+    if name.lower() == "patrick bateman":
+        print("Psychopath = true")
+        print("Reservation at Dorsia = false")
+        question = input("Would you like to return some videotapes? ")
+        if question.lower() == "yes":
+            print("Remember your Jean Paul Gaultier dufflebag!")
+        elif question.lower() == "no":
+            print("Paul Allen is safe... for now")
+        else:
+            print("Answer not valid")
+    else:
+        print(f"Name entered: {name}")
+
+if __name__ == "__main__":
+    main()
