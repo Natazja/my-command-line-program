@@ -26,7 +26,7 @@ Kopier og indsæt følgende kommandoer direkte i din terminal for at opsætte sc
 
 ```bash
 # Klon repository fra GitHub til din lokale maskine
-git clone [https://github.com/your-username/your-repo.git](https://github.com/Natazja/my-command-line-program.git)
+git clone https://github.com/Natazja/my-command-line-program.git
 
 # Skift til projektmappen
 cd your-repo
