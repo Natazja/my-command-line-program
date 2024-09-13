@@ -25,7 +25,7 @@
 Kopier og indsæt følgende kommandoer direkte i din terminal for at opsætte scriptet:
 
 ```bash
-# Klon repository fra GitHub til din lokale maskine
+# Klon repository fra GitHub til dit device 
 git clone https://github.com/Natazja/my-command-line-program.git
 
 # Skift til projektmappen
