@@ -29,7 +29,7 @@ Kopier og indsæt følgende kommandoer direkte i din terminal for at opsætte sc
 git clone https://github.com/Natazja/my-command-line-program.git
 
 # Skift til projektmappen
-cd your-repo
+cd my-command-line-program
 
 # Ændr tilladelserne for scriptet for at gøre det eksekverbart
 chmod +x check_name
