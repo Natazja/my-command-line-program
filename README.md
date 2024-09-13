@@ -4,14 +4,14 @@
 
 ## Oversigt
 
-`check_name`-scriptet er et simpelt Python-kommando-linjeværktøj, der beder brugeren om at indtaste deres navn. Det giver specifikke svar, hvis navnet er "Patrick Bateman" og generel feedback for andre navne.
+`check_name`-scriptet er en Python-kommando, der beder brugeren om at indtaste deres navn. Det giver specifikke svar, hvis navnet er "Patrick Bateman" og generel feedback for andre navne.
 
 ## Funktioner
 
 - **Specifikt Svar for "Patrick Bateman":**
   - Viser en besked, der angiver, at personen er en psykopat.
   - Angiver en reservationsstatus.
-  - Spørger, om brugeren vil returnere nogle videokassetter og giver et svar baseret på deres input.
+  - Spørger, om brugeren vil returnere nogle videotapes og giver et svar baseret på deres input.
 
 - **Generel Respons:**
   - Udskriver det indtastede navn.
@@ -26,7 +26,7 @@ Kopier og indsæt følgende kommandoer direkte i din terminal for at opsætte sc
 
 ```bash
 # Klon repository fra GitHub til din lokale maskine
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/Natazja/my-command-line-program.git)
 
 # Skift til projektmappen
 cd your-repo
